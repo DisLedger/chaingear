@@ -24,9 +24,9 @@ genesis_address = [""]
 funding_terms = "https://www.disledger.com/"
 funding_url = "https://www.disledger.com/"
 tokens_sold = ""
-tokens_issued = ""
+tokens_issued = "30 million DCL"
 btc_raised = ""
-cap_limit = [""]
+cap_limit = ["4.5 million DCL"]
 raised = [""]
 
 [[links]]
